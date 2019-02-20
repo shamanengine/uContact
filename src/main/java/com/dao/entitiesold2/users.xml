@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users2>
+    <usersMap>
+        <entry>
+            <key>0</key>
+            <value>
+                <firstName>f1</firstName>
+                <lastName>l1</lastName>
+                <login>l1</login>
+                <password>p1</password>
+                <patronymic>p1</patronymic>
+                <roleId>1</roleId>
+                <userId>0</userId>
+            </value>
+        </entry>
+        <entry>
+            <key>1</key>
+            <value>
+                <firstName>f2</firstName>
+                <lastName>l2</lastName>
+                <login>l2</login>
+                <password>p2</password>
+                <patronymic>p2</patronymic>
+                <roleId>2</roleId>
+                <userId>1</userId>
+            </value>
+        </entry>
+    </usersMap>
+</users2>

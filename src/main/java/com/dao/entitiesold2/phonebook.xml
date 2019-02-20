@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<phoneBook>
+    <idTrace contactNextId="1" roleNextId="3" userNextId="4"/>
+    <role description="admin description" roleId="1" title="ADMIN">
+        <userList>3</userList>
+    </role>
+    <role description="user description" roleId="2" title="USER">
+        <userList>1 2</userList>
+    </role>
+    <user createTime="2016-11-23T17:14:03.376" firstName="f1" lastName="l1" login="newl1" password="p1" patronymic="p1" role="2" userId="1">
+        <contacts></contacts>
+    </user>
+    <user createTime="2016-11-23T17:14:03.492" firstName="f2" lastName="l2" login="l2" password="p2" patronymic="p2" role="2" userId="2">
+        <contacts></contacts>
+    </user>
+    <user createTime="2016-11-23T17:14:03.494" firstName="f4" lastName="l4" login="l4" password="p4" patronymic="p4" role="1" userId="3">
+        <contacts></contacts>
+    </user>
+</phoneBook>
