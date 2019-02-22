@@ -53,6 +53,6 @@ public class UserDAO implements UserIDAO {
 
     @Override
     public User findOne(Long id) {
-        return userRepository.
+        return userRepository.findOne(id);
     }
 }
